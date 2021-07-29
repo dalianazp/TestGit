@@ -1,4 +1,5 @@
 # TestGit
 Ejercicio en clase de Git Y GitHub
 
-Cristhian Tohasa
+- Cristhian Tohasa
+- Luis Almeida
